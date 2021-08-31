@@ -1,0 +1,5 @@
+- 👋 hi, i am pritish (@pritish51)
+- 👀 i am interested in tech products
+- 🌱 i am currently learning devOps
+- 💞️ i am looking to collaborate on machine learning projects, if you are doing something interesting ping me. I have 3 years of experince in machine learning and i am planning to dive deep in it.
+- 📫 pritish0509@gmail.com
